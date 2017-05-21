@@ -1,9 +1,11 @@
 #foldiers
 .gradle*/*
 .settings*/*
+bin*/*
 build*/*
 eclipse*/*
 gradle*/*
+run*/*
 
 #files
 *.bat
@@ -16,3 +18,4 @@ eclipse_Client.launch
 eclipse_Server.launch
 gradle.properties
 gradlew
+/bin/

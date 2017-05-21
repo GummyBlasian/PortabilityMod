@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "pm",
+  "name": "Portability Mod",
+  "description": "Make your Minecraft world portable!",
+  "version": "1.11.001",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Sangam1"],
+  "credits": "To everyone that has helped.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
